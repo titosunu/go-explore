@@ -12,6 +12,7 @@ func main() {
 	// packageGo.Reflect()
 	// packageGo.Base64()
 	// packageGo.CsvReader()
-	packageGo.Slices()
+	// packageGo.Slices()
+	packageGo.GoCreate()
 }
 
